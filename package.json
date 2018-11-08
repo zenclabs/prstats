@@ -11,6 +11,11 @@
     "@oclif/command": "^1",
     "@oclif/config": "^1",
     "@oclif/plugin-help": "^2",
+    "@octokit/rest": "^15.16.1",
+    "@types/fs-extra": "^5.0.4",
+    "@types/inquirer": "^0.0.43",
+    "fs-extra": "^7.0.1",
+    "inquirer": "^6.2.0",
     "tslib": "^1"
   },
   "devDependencies": {
